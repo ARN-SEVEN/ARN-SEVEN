@@ -15,7 +15,7 @@ Currently learning
 Anmac - a software built to support Android devices around a MacBook. To help the android device stay in connect with the macOS integration like they have with iPhone in apple ecosystem. To bridge the gap between two different devices running two entirely different os is pretty hard than I have imagined. My goal is to make everyday tasks feel more connected, such as sharing files, syncing notifications, and keeping a phone and computer in touch through a simple, reliable experience.
 
 Fun fact:
-• I have broke many devices while trying to play with their kernel
+• I have broken many devices while trying to play with their kernel
 • I like to play with different types of local llm and test their limit
 • I like to watch boring tech video for hours
 • I like cats
